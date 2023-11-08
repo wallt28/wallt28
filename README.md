@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
-<h2 align="center">A enthusiastic Software Developer eager to learn, create solutions, and tackle challenges</h2>
+<h2 align="center">A enthusiastic Software Developer eager to learn, create solutions and tackle challenges</h2>
 
 
 <p align="center">
