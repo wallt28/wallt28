@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
-<h2 align="center">A passionate Software Developer</h2>
+<h2 align="center">A enthusiastic Software Developer eager to learn, create solutions, and tackle challenges</h2>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tomwallis28" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
