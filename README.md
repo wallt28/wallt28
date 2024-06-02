@@ -19,9 +19,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wallt28&show_icons=true&theme=dark" alt="wallt28's GitHub Stats" />
-</p>
-
-<h3 align="center">Let's create something amazing together.</h3>
