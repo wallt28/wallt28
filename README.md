@@ -15,7 +15,6 @@
   <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge"/></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge"/></a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noopener noreferrer"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/></a>
 </p>
 
 ---
